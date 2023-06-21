@@ -37,7 +37,9 @@ Para realizar o cadastro a empresa deve informar: CPF ou CNPJ, Razão Social, em
 # Relatorios:
 
 > Selecionar todos os anúncios juntamente com as informações da empresa correspondente
+> 
 > Selecionar todos os comentários de um determinado anúncio
+> 
 > Selecionar todos os anúncios com avaliação superior a 4
 > Selecionar todos os clientes que não fizeram nenhum comentário
 > Selecionar todos os anúncios e contar quantos comentários cada um possui
