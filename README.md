@@ -18,18 +18,16 @@ Para realizar o cadastro a empresa deve informar: CPF ou CNPJ, Razão Social, em
  
  * Os comentarios podem ser manipulados pelos clientes: os comentarios contem Avaliação ( de 0 a 5) e um texto.
 
-
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-
-
-                                    
-                                      ![image](https://github.com/joaomn/DBU2PI/assets/97440058/7d6c651f-a65d-4689-b5e0-3a68feb89fa4)
-   
-   
-   
-                                    * Modelo relacional (MR) :
+*Modelo de Entidade Relacionamento (MER):
 
 
 
-![image](https://github.com/joaomn/DBU2PI/assets/97440058/1598b51d-c2ce-4c7e-8fe3-143f81ccd570)
+![image](https://github.com/joaomn/DBU2PI/assets/97440058/f48d4669-efb5-4389-a8f2-41e5f7415569)
+
+
+*Modelo Relacional (MR):
+
+
+![image](https://github.com/joaomn/DBU2PI/assets/97440058/09157501-cde9-4cd5-8f3b-afdb0585e7a6)
+
+
