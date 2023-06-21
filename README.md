@@ -2,7 +2,7 @@
 
 
 
-                                           # Mini Mundo DELFOS 
+ # Mini Mundo DELFOS 
 
 <i> Delfos é uma plataforma de anuncios de Serviços, a qual tem o intuido de ser gratuita, livre, organica e democratica. 
   Nossa missão é conectar todos os tipos de trabalhadores a quem precisa, sendo justo com quem contrata o serviço e com quem o presta. </i>
@@ -24,13 +24,13 @@ Para realizar o cadastro a empresa deve informar: CPF ou CNPJ, Razão Social, em
 
 
 
-![image](https://github.com/joaomn/DBU2PI/assets/97440058/f48d4669-efb5-4389-a8f2-41e5f7415569)
+> ![image](https://github.com/joaomn/DBU2PI/assets/97440058/f48d4669-efb5-4389-a8f2-41e5f7415569)
 
 
-*Modelo Relacional (MR):
+# Modelo Relacional (MR):
 
 
-![image](https://github.com/joaomn/DBU2PI/assets/97440058/09157501-cde9-4cd5-8f3b-afdb0585e7a6)
+> ![image](https://github.com/joaomn/DBU2PI/assets/97440058/09157501-cde9-4cd5-8f3b-afdb0585e7a6)
 
 
 
