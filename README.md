@@ -18,7 +18,7 @@ Para realizar o cadastro a empresa deve informar: CPF ou CNPJ, Razão Social, em
  
  * Os comentarios podem ser manipulados pelos clientes: os comentarios contem Avaliação ( de 0 a 5) e um texto.
 
-##############################################################################################################################
+
 
 # Modelo de Entidade Relacionamento (MER):
 
@@ -34,7 +34,29 @@ Para realizar o cadastro a empresa deve informar: CPF ou CNPJ, Razão Social, em
 
 
 
-######################################################################################################################################
+# Relatorios:
+
+> Selecionar todos os anúncios juntamente com as informações da empresa correspondente
+> Selecionar todos os comentários de um determinado anúncio
+> Selecionar todos os anúncios com avaliação superior a 4
+> Selecionar todos os clientes que não fizeram nenhum comentário
+> Selecionar todos os anúncios e contar quantos comentários cada um possui
+> Selecionar as 5  empresas com mais anúncios
+> Selecionar os clientes que fizeram  3 ou mais comentários
+> Selecionar os anúncios de uma determinada empresa ordenados por data de postagem
+> Selecionar os anúncios com avaliação superior à média de avaliações de todos os anúncios
+> Selecionar as empresas que possuem o anúncio com a maior avaliação
+> Selecionar os anúncios que possuem pelo menos um comentário com avaliação 3 ou inferior
+> Selecionar os clientes que fizeram comentários nos anúncios de uma determinada empresa
+> Selecionar os anúncios com mais de 45 caracteres de texto
+> Selecionar os anúncios que possuem o mesmo tipo de um determinado anúncio
+> Selecionar os clientes que possuem pelo menos um comentário com avaliação superior à média de avaliações de todos os comentários
+> Selecionar os anúncios e a quantidade de comentários de cada um, ordenados pelo número de comentários em ordem decrescente
+> Selecionar os anúncios que possuem pelo menos um comentário do cliente com um determinado ID
+> Relatório de clientes com a quantidade de comentários realizados em anúncios de uma determinada empresa
+> Relatório de anúncios com a média de avaliação e o nome da empresa correspondente
+>  Relatorio de todos os anuncios do mes de junho do ano de 2023
+>  Relatorio dos anuncios com valor abaixo do valor medio dos anunicos
 
 
 
