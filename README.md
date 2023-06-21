@@ -23,11 +23,8 @@ Para realizar o cadastro a empresa deve informar: CPF ou CNPJ, Razão Social, em
 
 
 
-                                    * Modelo entitade relacionamento (MER) :
                                     
-                                    
-                                    
-   ![image](https://github.com/joaomn/DBU2PI/assets/97440058/7d6c651f-a65d-4689-b5e0-3a68feb89fa4)
+                                      ![image](https://github.com/joaomn/DBU2PI/assets/97440058/7d6c651f-a65d-4689-b5e0-3a68feb89fa4)
    
    
    
