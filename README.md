@@ -20,7 +20,7 @@ Para realizar o cadastro a empresa deve informar: CPF ou CNPJ, Razão Social, em
 
 ##############################################################################################################################
 
-*Modelo de Entidade Relacionamento (MER):
+# Modelo de Entidade Relacionamento (MER):
 
 
 
