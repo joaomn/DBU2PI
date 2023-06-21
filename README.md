@@ -2,7 +2,7 @@
 
 
 
-<b> MIni Mundo DELFOS </b>
+                                           <b> Mini Mundo DELFOS </b>
 
 <i> Delfos é uma plataforma de anuncios de Serviços, a qual tem o intuido de ser gratuita, livre, organica e democratica. 
   Nossa missão é conectar todos os tipos de trabalhadores a quem precisa, sendo justo com quem contrata o serviço e com quem o presta. </i>
